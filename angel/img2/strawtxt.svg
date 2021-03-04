@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="310.581" viewBox="0 0 504 310.581">
+  <g id="그룹_49" data-name="그룹 49" transform="translate(-320 -298)">
+    <text id="Real_Fresh" data-name="Real Fresh" transform="translate(320 351)" fill="#85ae65" font-size="46" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700"><tspan x="0" y="0">Real Fresh</tspan></text>
+    <text id="Strawberry_" data-name="Strawberry Ⅱ" transform="translate(320 414)" fill="#e93f3f" font-size="51" font-family="NotoSansCJKkr-Black, Noto Sans CJK KR" font-weight="800"><tspan x="0" y="0">Strawberry Ⅱ</tspan></text>
+    <text id="신선한_생딸기가_가득한_엔제리너스의_새로운_메뉴를_만나보세요_" data-name="신선한 생딸기가 가득한 엔제리너스의 새로운 메뉴를 만나보세요!" transform="translate(320 500)" fill="#7f5050" font-size="19" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR"><tspan x="0" y="0">신선한 생딸기가 가득한 엔제리너스의 새로운 메뉴를 만나보세요!</tspan></text>
+    <g id="패스_6" data-name="패스 6" transform="translate(320.043 554.328)" fill="none">
+      <path d="M0,0H158.664V54.253H0Z" stroke="none"/>
+      <path d="M 0.9999847412109375 1.000007629394531 L 0.9999847412109375 53.25288391113281 L 157.6640930175781 53.25288391113281 L 157.6640930175781 1.000007629394531 L 0.9999847412109375 1.000007629394531 M -1.52587890625e-05 7.62939453125e-06 L 158.6640930175781 7.62939453125e-06 L 158.6640930175781 54.25288391113281 L -1.52587890625e-05 54.25288391113281 L -1.52587890625e-05 7.62939453125e-06 Z" stroke="none" fill="#505050"/>
+    </g>
+    <g id="그룹_8" data-name="그룹 8" transform="translate(338.468 569.683)">
+      <text id="자세히_보기" data-name="자세히 보기" transform="translate(-0.468 19.317)" font-size="16" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR"><tspan x="0" y="0">자세히 보기</tspan></text>
+      <path id="arrow" d="M29.133,4.612l-.061-.056L24.1,0l-.429.394,4.539,4.162H0v.562H29.686Z" transform="translate(90.08 9.725)" stroke="#000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
