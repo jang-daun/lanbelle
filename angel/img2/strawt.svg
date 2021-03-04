@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="303" viewBox="0 0 504 303">
+  <g id="그룹_49" data-name="그룹 49" transform="translate(-319 -302)">
+    <text id="Real_Fresh" data-name="Real Fresh" transform="translate(319 354)" fill="#85ae65" font-size="45" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700"><tspan x="0" y="0">Real Fresh</tspan></text>
+    <text id="Strawberry_" data-name="Strawberry Ⅱ" transform="translate(319 415)" fill="#e93f3f" font-size="50" font-family="NotoSansCJKkr-Black, Noto Sans CJK KR" font-weight="800"><tspan x="0" y="0">Strawberry Ⅱ</tspan></text>
+    <text id="신선한_생딸기가_가득한_엔제리너스의_새로운_메뉴를_만나보세요_" data-name="신선한 생딸기가 가득한 엔제리너스의 새로운 메뉴를 만나보세요!" transform="translate(319 499)" fill="#7f5050" font-size="19" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR"><tspan x="0" y="0">신선한 생딸기가 가득한 엔제리너스의 새로운 메뉴를 만나보세요!</tspan></text>
+    <g id="패스_6" data-name="패스 6" transform="translate(319 552)" fill="none">
+      <path d="M0,0H155V53H0Z" stroke="none"/>
+      <path d="M 1 1 L 1 52 L 154 52 L 154 1 L 1 1 M 0 0 L 155 0 L 155 53 L 0 53 L 0 0 Z" stroke="none" fill="#505050"/>
+    </g>
+    <g id="그룹_8" data-name="그룹 8" transform="translate(-114 34)">
+      <text id="자세히_보기" data-name="자세히 보기" transform="translate(451 552)" font-size="16" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR"><tspan x="0" y="0">자세히 보기</tspan></text>
+      <path id="arrow" d="M28.461,4.505l-.06-.055L23.548,0l-.419.385,4.434,4.066H0V5H29Z" transform="translate(539 542.5)" stroke="#000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
